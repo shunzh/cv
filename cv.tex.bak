@@ -292,7 +292,7 @@ Nanjing, China
 \vspace{.05in}
 \item Supervisor: Prof. \href{http://www.cs.utexas.edu/~pstone/}{Peter Stone}.
 \item Research question: {\em Reinforcement Learning needs abstraction for
-large-scale problems. Examples are feature extraction and hierarchical learning.
+large-scale problems. Examples are feature extraction and hiarachical learning.
 Can the learning agent learn such abstraction on the fly?}
 \item In progress for Master Thesis.
 \end{innerlist}
@@ -306,10 +306,10 @@ Can the learning agent learn such abstraction on the fly?}
 \item Supervisor: Prof. \href{http://www.cs.utexas.edu/~dana/}{Dana Ballard} and
 Prof. \href{http://www.utexas.edu/cola/centers/cps/faculty/mmh739}{Mary Hayhoe}.
 \item Research question: {\em Assume human already has Markov Decision Processes
-(MDP) trained for preliminary tasks, how would these MDPs contribute to the complicated
+(MDP) trained for prelimary tasks, how would these MDPs contribute to the complicated
 behavior?}
 \item Using Inverse Reinforcement Learning to interpret human's behavior,
-assuming that it is a combination of the MDPs for preliminary tasks.
+assuming that it is a combination of the MDPs for prelimary tasks.
 \end{innerlist}
 \vspace{.1in}
 
@@ -338,7 +338,7 @@ Flock. Katie Genter, Shun Zhang and Peter Stone.
 try, can a robot explicitly select actions to explore its belief state space?}
 \item Implementing ASAMI (a model-learning algorithm) on Nao robot using
 bandit-based exploration.
-\item Achieved in Undergraduate Research Journal in University of Texas at
+\item Archieved in Undergraduate Research Journal in University of Texas at
 Austin, 2014.
 \end{innerlist}
 \vspace{.1in}
