@@ -30,6 +30,7 @@
 % This is a helpful package that puts math inside length specifications
 \usepackage{calc}
 \usepackage{comment}
+\usepackage{graphicx}
 
 % Simpler bibsection for CV sections
 % (thanks to natbib for inspiration)
@@ -241,16 +242,17 @@
 % ALSO: \rcollength is the width of the right column of the table
 %       (adjust it to your liking; default is 1.85in).
 %
-\newlength{\rcollength}\setlength{\rcollength}{1.4in}%
+\newlength{\rcollength}\setlength{\rcollength}{2in}%
 %
 \begin{tabular}[t]{@{}p{\textwidth-\rcollength}p{\rcollength}}
 \href{http://cs.utexas.edu/}%
      {Department of Computer Science} & \\
 \href{http://www.utexas.edu/}{The University of Texas at Austin} \\
-1 University Station A8000   & 512-574-3694 \\
+1 University Station A8000   & \includegraphics[width=110px]{phone.png}\\
 Austin, TX  78712     & \email{jensen.zhang@utexas.edu}\\
 \url{http://cs.utexas.edu/~menie482/} & \\
 \end{tabular}
+
 
 \section{Research Interests}
 
